@@ -1,2 +1,2 @@
 # docker-network-namespace
-Create route between two repositories and ping one another
+Create route between two network namespace and ping one another
