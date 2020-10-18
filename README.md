@@ -2,9 +2,9 @@
 Create route between two network namespace and ping one another.
 
 # PREREQUISITES
-### * _**CentOS/Ubuntu**_
-### * _**Linux CLI**_
-### * _**Knowledge on networking**_
+* _**CentOS/Ubuntu**_
+* _**Linux CLI**_
+* _**Knowledge on networking**_
 
 **Step 1: Create two different namespace**\
 ip netns add red\
